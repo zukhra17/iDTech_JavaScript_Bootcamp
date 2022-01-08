@@ -1,0 +1,10 @@
+function Greet(name = ""){
+    if (name == "") {
+        return ("Hello There!");
+        
+    }
+    else{
+            return "Hello"  + name;
+        }
+}
+console.log(Greet("Jose"));

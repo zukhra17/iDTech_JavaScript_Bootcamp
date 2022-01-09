@@ -1,0 +1,2 @@
+# Pac-Man Project
+In this Assignment I was supposed to create a Pac-Man that goes from left to right on its own. Then when it hits the wall it supposed to change direction from right to left and go the opposite way. And then when it reaches the left it supposed to hit wall and change direction to the opposite way.
